@@ -3,26 +3,22 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 20 years old web developer from Hungary.
+I'm Sachin K S, a 19 year old B.Tech. Engineering Student from Kerala, India.
 
-- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
+- 🦔 Student of [Vidya Academy Of Science & Technology](https://www.vidyaacademy.ac.in/) 
 
-- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
+- 👨‍💻 Specialisation on Artificial Intelligence & Machine Learning
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 With passion in coding, video editing & graphic designing 
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
 + a lot more ;)
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Java, Python, C, SQL, Ardruino etc...
+- ⚙️ Adobe Photoshop, After Effects , Premier Pro, etc...
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [Instagram](https://www.instagram.com/_sachinks?igsh=amE3cDY4OGRtc2pz&utm_source=qr)
+- [LinkedIn](https://www.linkedin.com/in/sachin-k-s-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
