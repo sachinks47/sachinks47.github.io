@@ -12,12 +12,10 @@ I'm Sachin K S, a 19 year old B.Tech. Engineering Student from Kerala, India.
 - 🧭 With passion in coding, video editing & graphic designing 
 
 
-+ a lot more ;)
-
 ## Skills
 - 👨‍💻 Java, Python, C, SQL, Ardruino etc...
 - ⚙️ Adobe Photoshop, After Effects , Premier Pro, etc...
-+ a lot more :D
+
 
 ## Contact
 - [Instagram](https://www.instagram.com/_sachinks?igsh=amE3cDY4OGRtc2pz&utm_source=qr)
